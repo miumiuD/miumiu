@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Pages on My New Hugo Site</title>
+        <title>Pages on Miumiu Duan</title>
         <link>http://localhost:1313/page/</link>
-        <description>Recent content in Pages on My New Hugo Site</description>
+        <description>Recent content in Pages on Miumiu Duan</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
@@ -20,26 +20,14 @@
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/page/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+        <description>&lt;p&gt;Hello everyone! I&amp;rsquo;m Delynn Duan, a girl from Shenzhen, in southern China. Currently, I work as a software product manager and have over five years of experience in this dynamic field.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;d like to introduce myself by sharing a little journey from many years ago. So, let&amp;rsquo;s rewind the clock ten years. Back then, I was in college. One day, I saw a beautiful picture of a sea of clouds on social media and decided to see it for myself. I invited my boyfriend, but his response to the idea of climbing wasn&amp;rsquo;t very enthusiastic. So, I decided to embark on this adventure alone.&lt;/p&gt;
+&lt;p&gt;Fortunately, during my journey, I had the good fortune to meet some wonderful people. After a grueling ten - hour struggle, I finally reached the mountaintop. &amp;ldquo;Oh, I&amp;rsquo;m coming, beautiful clouds,&amp;rdquo; I thought. But in the end, I didn&amp;rsquo;t get to see the sea of clouds. Instead, I was left with a pair of aching legs. Oh, and an unexpected friendship that has endured for years.&lt;/p&gt;
+&lt;p&gt;After graduating, unlike many of my classmates, I decided to become a product manager based on my enthusiasm. Through unwavering hard work, I turned my dream into reality. The job has been both interesting and challenging. I&amp;rsquo;ve had the opportunity to experiment with different products, immerse myself in vast amounts of data, engage in conversations with diverse users, and keep everyone informed about the project&amp;rsquo;s progress.&lt;/p&gt;
+&lt;p&gt;After working for several years, I decided to take a gap year. I&amp;rsquo;ve always been a big fan of traveling. Back when I was in college, I even hitchhiked for over 1,000 kilometers. Initially, my plan was to travel from China to Germany. Unfortunately, the COVID - 19 pandemic disrupted my carefully laid plans, and I ended up exploring the vast landscapes of China instead.&lt;/p&gt;
+&lt;p&gt;In 2023, I read the book &lt;em&gt;Siddhartha&lt;/em&gt; by Hermann Hesse. This book was like a spark that ignited a new passion within me. It made me yearn to explore new mountains and discover a broader world. So, I began to study German again.&lt;/p&gt;
+&lt;p&gt;Thinking back to that very first mountain - climbing experience, I thought it was just a one - time thing. But strangely, something unique emerged from it. Since then, I&amp;rsquo;ve been climbing more mountains. Whenever fear or laziness tries to hold me back, I remind myself, &amp;ldquo;If you truly desire something, just go for it.&amp;rdquo; The path ahead may be arduous, but I focus on taking one step at a time. And even if I start alone, I know that I&amp;rsquo;ll make friends along the way. Maybe there won&amp;rsquo;t always be a sea of clouds waiting at the summit, but I&amp;rsquo;m certain that I&amp;rsquo;ll find something valuable.&lt;/p&gt;
+&lt;p&gt;Well, that&amp;rsquo;s a brief introduction to my life. Thank you for reading.&lt;/p&gt;
 </description>
         </item>
         <item>
