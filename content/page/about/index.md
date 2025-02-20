@@ -14,21 +14,28 @@ menu:
             icon: user
 ---
 
-Hello everyone! I'm Delynn Duan, a girl from Shenzhen, in southern China. Currently, I work as a software product manager and have over five years of experience in this dynamic field.
+Hello everyone! I'm Xiaoyan Duan, a girl from Shenzhen, in southern China. Currently, I work as a software product manager and have over five years of experience in this dynamic field.Here's a simple story about why I came here
 
-I'd like to introduce myself by sharing a little journey from many years ago. So, let's rewind the clock ten years. Back then, I was in college. One day, I saw a beautiful picture of a sea of clouds on social media and decided to see it for myself. I invited my boyfriend, but his response to the idea of climbing wasn't very enthusiastic. So, I decided to embark on this adventure alone.
+{{< youtube Fzzh31bBsQA >}}
 
-Fortunately, during my journey, I had the good fortune to meet some wonderful people. After a grueling ten - hour struggle, I finally reached the mountaintop. "Oh, I'm coming, beautiful clouds," I thought. But in the end, I didn't get to see the sea of clouds. Instead, I was left with a pair of aching legs. Oh, and an unexpected friendship that has endured for years.
+My connection with this industry dates back to my childhood. My parents were fashion designers who ran a store at the Hong Kong port, custom - making suits and gowns for foreigners. They were very busy with work. Besides studying, my favorite activity was to create fashion shows on mannequins using leftover fabric scraps in my parents' clothing factory. Apart from fashion design, I also enjoyed inventing and making handicrafts on my own, as well as drawing. All in all, I like to study problems and bring my ideas to life.
 
-After graduating, unlike many of my classmates, I decided to become a product manager based on my enthusiasm. Through unwavering hard work, I turned my dream into reality. The job has been both interesting and challenging. I've had the opportunity to experiment with different products, immerse myself in vast amounts of data, engage in conversations with diverse users, and keep everyone informed about the project's progress.
+![painting](painting.jpg)
+
+Later, not wanting to waste my college entrance exam results, I opted for a popular major. But my creative urge remained unquenched. I sought a field challenging both my creative and logical faculties, and found it in prouct design – creating better products through rational analysis and innovation. While studying my major, I self-taught design knowledge like the《Five Elements of User Experience》 and 《Design Psychology》, along with software skills such as AI, PS, and Axure. Multiple internships furnished me with design experience and a portfolio, and after graduation, I achieved my goal of becoming a product manager. 
+
+In the six years since, I've overseen numerous products from conception to launch, relishing the fulfillment it brought. I also led research on products with vast user bases, mastering data-driven methodologies.
+
+![Enterprise Digital Management Platform](image1.png)![Enterprise Digital Management Platform](image2.png)
+
+![Spreadsheet](image3.png)![Spreadsheet](image4.png)
 
 
-After working for several years, I decided to take a gap year. I've always been a big fan of traveling. Back when I was in college, I even hitchhiked for over 1,000 kilometers. Initially, my plan was to travel from China to Germany. Unfortunately, the COVID - 19 pandemic disrupted my carefully laid plans, and I ended up exploring the vast landscapes of China instead.
 
 
-In 2023, I read the book _Siddhartha_ by Hermann Hesse. This book was like a spark that ignited a new passion within me. It made me yearn to explore new mountains and discover a broader world. So, I began to study German again.
+In 2023, two pivotal events occurred. Reading Hermann Hesse's "Siddhartha" was like a spark that reignited my passion for life, inspiring me to seek broader experiences abroad. So, I decided to study in Europe, drawn by its rich, inclusive culture. Learning additional languages there would expand my horizons further. (Here is the article:[《What Are We Searching For? The Enlightenment from Hermann Hesse's "Siddhartha"》](https://miumiusblog.vercel.app/post/what-are-we-searching-for-the-enlightenment-from-hermann-hesses-siddhartha/ )
 
-  
-Thinking back to that very first mountain - climbing experience, I thought it was just a one - time thing. But strangely, something unique emerged from it. Since then, I've been climbing more mountains. Whenever fear or laziness tries to hold me back, I remind myself, "If you truly desire something, just go for it." The path ahead may be arduous, but I focus on taking one step at a time. And even if I start alone, I know that I'll make friends along the way. Maybe there won't always be a sea of clouds waiting at the summit, but I'm certain that I'll find something valuable.
+Simultaneously, the advent of AI transformed my creative process. Initially, conversing with AI was enlightening; it was like having a brilliant friend. I've tried various AI tools, including using them to create novels, write Processing 5 animation code, train and synthesize voices, generate images and videos, and produce animations. This new era is a double-edged sword: while basic jobs face AI-induced upheaval, those who collaborate with AI can reach new heights of learning and creation. I hope to stand at the forefront of technology, gain a profound understanding of it and apply it effectively. This can help me further unleash my creativity and productivity. With the integration of technological vision, product vision, and aesthetics, I believe I can reach a new level.
 
-Well, that's a brief introduction to my life. Thank you for reading.
+For AI work cases, please refer to:[Loop：return to the path](https://youtu.be/VeiZL97zE4A?si=AiXufNaf25D7TT1R),Images, videos and audio productions are completed through Midjourney, Pixverse, Runway and Stable Diffusion. 
+{{< youtube VeiZL97zE4A >}}
